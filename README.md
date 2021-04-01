@@ -1,2 +1,2 @@
 # Cryptography
-Labs for the course
+Labs for the course num 1: RSA
